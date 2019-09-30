@@ -29,14 +29,11 @@ body {
 } 
 
 .center-child {  
-    display: flex;
+    	display: flex;
 	align-items: center;
 	justify-content: center; 
 }
 
-.Iterate {content: url("images/iterate.png");
-
-}
 @media only screen and (max-width: 1000px) { 
 	
 	.row {  
